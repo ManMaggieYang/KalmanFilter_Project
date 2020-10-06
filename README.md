@@ -1,7 +1,7 @@
 # KalmanFilter_Project
 Application of Kalman Filter in Finance
 
-This research project is for Columbia University Engineering School APMA 4903 class. The team members are:
+This research project is for Columbia University Engineering School APMA 4903 class (supervised by Professor Chris Wiggins chris.wiggins@gmail.com). The team members are:
 
 Bella Wu (bw2604@columbia.edu)
 Maggie Yang (my2652@columbia.edu)
